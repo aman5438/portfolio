@@ -686,6 +686,7 @@ header .navbar ul li a:hover {
 
   .home {
     padding: 1rem 4rem;
+    height: auto;
   }
 }
 
